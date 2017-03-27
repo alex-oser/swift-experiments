@@ -21,7 +21,7 @@ The following features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![alt text](https://github.com/alex-oser/swift-experiments/Movies/blob/master/MovieAppDemo.gif "Flicks Demo GIF")
+![alt text](https://github.com/alex-oser/swift-experiments/blob/master/Movies/MovieAppDemo.gif "Flicks Demo GIF")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,7 +37,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![alt text](https://github.com/alex-oser/swift-experiments/Yelp/blob/master/YelpDemo.gif "Yelp Demo GIF")
+![alt text](https://github.com/alex-oser/swift-experiments/blob/master/Yelp/YelpDemo.gif "Yelp Demo GIF")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -57,7 +57,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![alt text](https://github.com/alex-oser/swift-experiments/Twitter/blob/master/TwitterDemo.gif "Twitter Demo GIF")
+![alt text](https://github.com/alex-oser/swift-experiments/blob/master/Twitter/TwitterDemo.gif "Twitter Demo GIF")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -78,7 +78,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![alt text](https://github.com/alex-oser/swift-experiments/Instagram/blob/master/InstagramDemo.gif "Instagram Demo GIF")
+![alt text](https://github.com/alex-oser/swift-experiments/blob/master/Instagram/InstagramDemo.gif "Instagram Demo GIF")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
